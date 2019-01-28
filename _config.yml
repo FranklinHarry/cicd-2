@@ -7,7 +7,7 @@ title: 'CICD PROCESS'
 slogan: 'HiMinds - A DevOps mindset company'
 
 # The description.
-description: '»CICD Process« is a repository about cicd process and collections tools and scripts.'
+#description: '»CICD Process« is a repository about cicd process and collections tools and scripts.'
 
 # The credits show up in the includes/_footer.html  
 credits: '<p>Created with &hearts; by Harry</p>'
