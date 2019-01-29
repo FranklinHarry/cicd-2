@@ -19,7 +19,7 @@ author: Harry
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://franklinharry.github.io'
-baseurl: '/cicd-process-1'
+baseurl: '/cicd-2'
 
 
 # This URL points directly to the images directory making
